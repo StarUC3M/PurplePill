@@ -1,0 +1,665 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=
+Description=
+TargetOutputMedium=Assembly
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Solid Edge PS Printer 3.0
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=Schematics
+OutputMedium2_Type=Publish
+OutputMedium3=Datasheet Documentation
+OutputMedium3_Type=Publish
+OutputMedium4=PDF3D
+OutputMedium4_Type=Publish
+OutputMedium5=Step Files
+OutputMedium5_Type=GeneratedFiles
+OutputMedium6=Rules Check
+OutputMedium6_Type=Publish
+OutputMedium7=Gerbers
+OutputMedium7_Type=GeneratedFiles
+OutputMedium8=Drills
+OutputMedium8_Type=GeneratedFiles
+OutputMedium9=Assembly Drawings
+OutputMedium9_Type=Publish
+OutputMedium10=Mechanical Documentation
+OutputMedium10_Type=Publish
+OutputMedium11=Assembly
+OutputMedium11_Type=GeneratedFiles
+OutputType1=Electrical Rules Check
+OutputName1=Electrical Rules Check
+OutputCategory1=Validation
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputEnabled1_OutputMedium5=0
+OutputEnabled1_OutputMedium6=2
+OutputEnabled1_OutputMedium7=0
+OutputEnabled1_OutputMedium8=0
+OutputEnabled1_OutputMedium9=0
+OutputEnabled1_OutputMedium10=0
+OutputEnabled1_OutputMedium11=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=ERCClassColumnOrder=0|ERCClassColumnSort=0|ERCClassColumnVisibility=True|ERCConnectionMatrixL1=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL10=NWNNNNNENNEWNNEWN|ERCConnectionMatrixL11=NNENNNNEEENWNENWN|ERCConnectionMatrixL12=WWWWNWWNWWWNWWWNN|ERCConnectionMatrixL13=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL14=NWEENEEEENEWNEEWW|ERCConnectionMatrixL15=NNENNNNEEENWNENWW|ERCConnectionMatrixL16=WWWWNWWNWWWNWWWNW|ERCConnectionMatrixL17=WNNNNNNNWNNNWWWWN|ERCConnectionMatrixL2=NNWNNNNWWWNWNWNWN|ERCConnectionMatrixL3=NWEENEEEENEWNEEWN|ERCConnectionMatrixL4=NNENNNWEENNWNENWN|ERCConnectionMatrixL5=NNNNNNNNNNNNNNNNN|ERCConnectionMatrixL6=NNENNNNEENNWNENWN|ERCConnectionMatrixL7=NNEWNNWEENNWNENWN|ERCConnectionMatrixL8=NWEENEENEEENNEENN|ERCConnectionMatrixL9=NWEENEEEENEWNEEWW|ERCDocumentColumnOrder=1|ERCDocumentColumnSort=0|ERCDocumentColumnVisibility=True|ERCMessageColumnOrder=2|ERCMessageColumnSort=0|ERCMessageColumnVisibility=True|ERCReportGrouping=2|ERCReportMode=0|ERCReportSuppressedErrors=False|ERCType1=1|ERCType10=1|ERCType100=2|ERCType101=0|ERCType102=2|ERCType103=2|ERCType104=1|ERCType105=2|ERCType106=2|ERCType107=2|ERCType108=2|ERCType109=1|ERCType11=2|ERCType110=1|ERCType111=1|ERCType112=1|ERCType113=1|ERCType114=2|ERCType115=2|ERCType116=2|ERCType117=3|ERCType118=3|ERCType119=3|ERCType12=0|ERCType120=2|ERCType121=3|ERCType122=2|ERCType123=1|ERCType124=1|ERCType125=1|ERCType13=0|ERCType14=1|ERCType15=1|ERCType16=1|ERCType17=1|ERCType18=1|ERCType19=1|ERCType2=1|ERCType20=0|ERCType21=0|ERCType22=0|ERCType23=0|ERCType24=1|ERCType25=2|ERCType26=0|ERCType27=2|ERCType28=1|ERCType29=1|ERCType3=2|ERCType30=1|ERCType31=1|ERCType32=2|ERCType33=0|ERCType34=2|ERCType35=1|ERCType36=2|ERCType37=1|ERCType38=2|ERCType39=2|ERCType4=1|ERCType40=2|ERCType41=0|ERCType42=2|ERCType43=1|ERCType44=0|ERCType45=0|ERCType46=0|ERCType47=0|ERCType48=0|ERCType49=0|ERCType5=2|ERCType50=2|ERCType51=0|ERCType52=0|ERCType53=1|ERCType54=1|ERCType55=1|ERCType56=2|ERCType57=1|ERCType58=1|ERCType59=2|ERCType6=2|ERCType60=0|ERCType61=0|ERCType62=0|ERCType63=0|ERCType64=0|ERCType65=2|ERCType66=3|ERCType67=2|ERCType68=2|ERCType69=0|ERCType7=0|ERCType70=2|ERCType71=2|ERCType72=2|ERCType73=2|ERCType74=1|ERCType75=2|ERCType76=1|ERCType77=1|ERCType78=1|ERCType79=1|ERCType8=1|ERCType80=2|ERCType81=3|ERCType82=3|ERCType83=3|ERCType84=3|ERCType85=3|ERCType86=2|ERCType87=2|ERCType88=2|ERCType89=1|ERCType9=1|ERCType90=1|ERCType91=3|ERCType92=3|ERCType93=2|ERCType94=2|ERCType95=2|ERCType96=2|ERCType97=2|ERCType98=0|ERCType99=1|ERCValidationErrorLevel=1|Record=ERCReportView|DocumentPath=[Project]
+OutputType2=Schematic Print
+OutputName2=Schematics
+OutputCategory2=Documentation
+OutputDocumentPath2=[Project Physical Documents]
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=1
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=0
+OutputEnabled2_OutputMedium5=0
+OutputEnabled2_OutputMedium6=0
+OutputEnabled2_OutputMedium7=0
+OutputEnabled2_OutputMedium8=0
+OutputEnabled2_OutputMedium9=0
+OutputEnabled2_OutputMedium10=0
+OutputEnabled2_OutputMedium11=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=False|ShowNoteCollapsed=False|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
+OutputCategory3=Validation
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputEnabled3_OutputMedium5=0
+OutputEnabled3_OutputMedium6=1
+OutputEnabled3_OutputMedium7=0
+OutputEnabled3_OutputMedium8=0
+OutputEnabled3_OutputMedium9=0
+OutputEnabled3_OutputMedium10=0
+OutputEnabled3_OutputMedium11=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=0|ERCClassColumnSort=0|ERCClassColumnVisibility=True|ERCConnectionMatrixL1=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL10=NWNNNNNENNEWNNEWN|ERCConnectionMatrixL11=NNENNNNEEENWNENWN|ERCConnectionMatrixL12=WWWWNWWNWWWNWWWNN|ERCConnectionMatrixL13=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL14=NWEENEEEENEWNEEWW|ERCConnectionMatrixL15=NNENNNNEEENWNENWW|ERCConnectionMatrixL16=WWWWNWWNWWWNWWWNW|ERCConnectionMatrixL17=WNNNNNNNWNNNWWWWN|ERCConnectionMatrixL2=NNWNNNNWWWNWNWNWN|ERCConnectionMatrixL3=NWEENEEEENEWNEEWN|ERCConnectionMatrixL4=NNENNNWEENNWNENWN|ERCConnectionMatrixL5=NNNNNNNNNNNNNNNNN|ERCConnectionMatrixL6=NNENNNNEENNWNENWN|ERCConnectionMatrixL7=NNEWNNWEENNWNENWN|ERCConnectionMatrixL8=NWEENEENEEENNEENN|ERCConnectionMatrixL9=NWEENEEEENEWNEEWW|ERCDocumentColumnOrder=1|ERCDocumentColumnSort=0|ERCDocumentColumnVisibility=True|ERCMessageColumnOrder=2|ERCMessageColumnSort=0|ERCMessageColumnVisibility=True|ERCReportGrouping=2|ERCReportMode=0|ERCReportSuppressedErrors=False|ERCType1=1|ERCType10=1|ERCType100=2|ERCType101=0|ERCType102=2|ERCType103=2|ERCType104=1|ERCType105=2|ERCType106=2|ERCType107=2|ERCType108=2|ERCType109=1|ERCType11=2|ERCType110=1|ERCType111=1|ERCType112=1|ERCType113=1|ERCType114=2|ERCType115=2|ERCType116=2|ERCType117=3|ERCType118=3|ERCType119=3|ERCType12=0|ERCType120=2|ERCType121=3|ERCType122=2|ERCType123=1|ERCType124=1|ERCType125=1|ERCType13=0|ERCType14=1|ERCType15=1|ERCType16=1|ERCType17=1|ERCType18=1|ERCType19=1|ERCType2=1|ERCType20=0|ERCType21=0|ERCType22=0|ERCType23=0|ERCType24=1|ERCType25=2|ERCType26=0|ERCType27=2|ERCType28=1|ERCType29=1|ERCType3=2|ERCType30=1|ERCType31=1|ERCType32=2|ERCType33=0|ERCType34=2|ERCType35=1|ERCType36=2|ERCType37=1|ERCType38=2|ERCType39=2|ERCType4=1|ERCType40=2|ERCType41=0|ERCType42=2|ERCType43=1|ERCType44=0|ERCType45=0|ERCType46=0|ERCType47=0|ERCType48=0|ERCType49=0|ERCType5=2|ERCType50=2|ERCType51=0|ERCType52=0|ERCType53=1|ERCType54=1|ERCType55=1|ERCType56=2|ERCType57=1|ERCType58=1|ERCType59=2|ERCType6=2|ERCType60=0|ERCType61=0|ERCType62=0|ERCTyp¸63=0|ERCType64=0|ERCType65=2|ERCType66=3|ERCType67=2|ERCType68=2|ERCType69=0|ERCType7=0|ERCType70=2|ERCType71=2|ERCType72=2|ERCType73=2|ERCType74=1|ERCType75=2|ERCType76=1|ERCType77=1|ERCType78=1|ERCType79=1|ERCType8=1|ERCType80=2|ERCType81=3|ERCType82=3|ERCType83=3|ERCType84=3|ERCType85=3|ERCType86=2|ERCType87=2|ERCType88=2|ERCType89=1|ERCType9=1|ERCType90=1|ERCType91=3|ERCType92=3|ERCType93=2|ERCType94=2|ERCType95=2|ERCType96=2|ERCType97=2|ERCType98=0|ERCType99=1|ERCValidationErrorLevel=1|Record=ERCReportView|DocumentPath=[Project]
+OutputType4=PDF3D
+OutputName4=PDF3D
+OutputCategory4=Documentation
+OutputDocumentPath4=
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=1
+OutputEnabled4_OutputMedium5=0
+OutputEnabled4_OutputMedium6=0
+OutputEnabled4_OutputMedium7=0
+OutputEnabled4_OutputMedium8=0
+OutputEnabled4_OutputMedium9=0
+OutputEnabled4_OutputMedium10=0
+OutputEnabled4_OutputMedium11=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=9|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputCategory5=Export
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=0
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium4=0
+OutputEnabled5_OutputMedium5=1
+OutputEnabled5_OutputMedium6=0
+OutputEnabled5_OutputMedium7=0
+OutputEnabled5_OutputMedium8=0
+OutputEnabled5_OutputMedium9=0
+OutputEnabled5_OutputMedium10=0
+OutputEnabled5_OutputMedium11=0
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+OutputType6=Assembly
+OutputName6=Assembly Drawings
+OutputCategory6=Assembly
+OutputDocumentPath6=
+OutputVariantName6=
+OutputEnabled6=0
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=0
+OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium4=0
+OutputEnabled6_OutputMedium5=0
+OutputEnabled6_OutputMedium6=0
+OutputEnabled6_OutputMedium7=0
+OutputEnabled6_OutputMedium8=0
+OutputEnabled6_OutputMedium9=1
+OutputEnabled6_OutputMedium10=0
+OutputEnabled6_OutputMedium11=0
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name2=OutputConfigurationParameter2
+Configuration6_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name3=OutputConfigurationParameter3
+Configuration6_Item3=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name4=OutputConfigurationParameter4
+Configuration6_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name5=OutputConfigurationParameter5
+Configuration6_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name6=OutputConfigurationParameter6
+Configuration6_Item6=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name7=OutputConfigurationParameter7
+Configuration6_Item7=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name8=OutputConfigurationParameter8
+Configuration6_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration6_Name9=OutputConfigurationParameter9
+Configuration6_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+PcbPrintPreferences6=
+OutputType7=Assembly
+OutputName7=Mechanical Drawings
+OutputCategory7=Assembly
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium4=0
+OutputEnabled7_OutputMedium5=0
+OutputEnabled7_OutputMedium6=0
+OutputEnabled7_OutputMedium7=0
+OutputEnabled7_OutputMedium8=0
+OutputEnabled7_OutputMedium9=0
+OutputEnabled7_OutputMedium10=1
+OutputEnabled7_OutputMedium11=0
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name2=OutputConfigurationParameter2
+Configuration7_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name3=OutputConfigurationParameter3
+Configuration7_Item3=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Full|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name4=OutputConfigurationParameter4
+Configuration7_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name5=OutputConfigurationParameter5
+Configuration7_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical9|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name6=OutputConfigurationParameter6
+Configuration7_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name7=OutputConfigurationParameter7
+Configuration7_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name8=OutputConfigurationParameter8
+Configuration7_Item8=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name9=OutputConfigurationParameter9
+Configuration7_Item9=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Full|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name10=OutputConfigurationParameter10
+Configuration7_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name11=OutputConfigurationParameter11
+Configuration7_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical9|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name12=OutputConfigurationParameter12
+Configuration7_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration7_Name13=OutputConfigurationParameter13
+Configuration7_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+PcbPrintPreferences7=
+OutputType8=Gerber
+OutputName8=Gerber Files
+OutputCategory8=Fabrication
+OutputDocumentPath8=
+OutputVariantName8=
+OutputEnabled8=0
+OutputEnabled8_OutputMedium1=0
+OutputEnabled8_OutputMedium2=0
+OutputEnabled8_OutputMedium3=0
+OutputEnabled8_OutputMedium4=0
+OutputEnabled8_OutputMedium5=0
+OutputEnabled8_OutputMedium6=0
+OutputEnabled8_OutputMedium7=1
+OutputEnabled8_OutputMedium8=0
+OutputEnabled8_OutputMedium9=0
+OutputEnabled8_OutputMedium10=0
+OutputEnabled8_OutputMedium11=0
+OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\[ProjectName].PcbDoc
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputCategory9=Fabrication
+OutputDocumentPath9=
+OutputVariantName9=
+OutputEnabled9=0
+OutputEnabled9_OutputMedium1=0
+OutputEnabled9_OutputMedium2=0
+OutputEnabled9_OutputMedium3=0
+OutputEnabled9_OutputMedium4=0
+OutputEnabled9_OutputMedium5=0
+OutputEnabled9_OutputMedium6=0
+OutputEnabled9_OutputMedium7=0
+OutputEnabled9_OutputMedium8=1
+OutputEnabled9_OutputMedium9=0
+OutputEnabled9_OutputMedium10=0
+OutputEnabled9_OutputMedium11=0
+OutputDefault9=0
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+OutputType10=Composite
+OutputName10=Datasheet Reference Top
+OutputCategory10=Documentation
+OutputDocumentPath10=
+OutputVariantName10=
+OutputEnabled10=0
+OutputEnabled10_OutputMedium1=0
+OutputEnabled10_OutputMedium2=0
+OutputEnabled10_OutputMedium3=1
+OutputEnabled10_OutputMedium4=0
+OutputEnabled10_OutputMedium5=0
+OutputEnabled10_OutputMedium6=0
+OutputEnabled10_OutputMedium7=0
+OutputEnabled10_OutputMedium8=0
+OutputEnabled10_OutputMedium9=0
+OutputEnabled10_OutputMedium10=0
+OutputEnabled10_OutputMedium11=0
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name2=OutputConfigurationParameter2
+Configuration10_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name3=OutputConfigurationParameter3
+Configuration10_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name4=OutputConfigurationParameter4
+Configuration10_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name5=OutputConfigurationParameter5
+Configuration10_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name6=OutputConfigurationParameter6
+Configuration10_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration10_Name7=OutputConfigurationParameter7
+Configuration10_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+PcbPrintPreferences10=
+OutputType11=Composite
+OutputName11=Datasheet Reference Bottom
+OutputCategory11=Documentation
+OutputDocumentPath11=
+OutputVariantName11=
+OutputEnabled11=0
+OutputEnabled11_OutputMedium1=0
+OutputEnabled11_OutputMedium2=0
+OutputEnabled11_OutputMedium3=2
+OutputEnabled11_OutputMedium4=0
+OutputEnabled11_OutputMedium5=0
+OutputEnabled11_OutputMedium6=0
+OutputEnabled11_OutputMedium7=0
+OutputEnabled11_OutputMedium8=0
+OutputEnabled11_OutputMedium9=0
+OutputEnabled11_OutputMedium10=0
+OutputEnabled11_OutputMedium11=0
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name2=OutputConfigurationParameter2
+Configuration11_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name3=OutputConfigurationParameter3
+Configuration11_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name4=OutputConfigurationParameter4
+Configuration11_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name5=OutputConfigurationParameter5
+Configuration11_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name6=OutputConfigurationParameter6
+Configuration11_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+Configuration11_Name7=OutputConfigurationParameter7
+Configuration11_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\BreakoutBoards_STM32H723VET6\STM32F446VET6_Breakout.PcbDoc
+PcbPrintPreferences11=
+OutputType12=BOM_PartType
+OutputName12=Bill of Materials
+OutputCategory12=Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputEnabled12=1
+OutputEnabled12_OutputMedium1=0
+OutputEnabled12_OutputMedium2=0
+OutputEnabled12_OutputMedium3=0
+OutputEnabled12_OutputMedium4=0
+OutputEnabled12_OutputMedium5=0
+OutputEnabled12_OutputMedium6=0
+OutputEnabled12_OutputMedium7=0
+OutputEnabled12_OutputMedium8=0
+OutputEnabled12_OutputMedium9=0
+OutputEnabled12_OutputMedium10=0
+OutputEnabled12_OutputMedium11=1
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration12_Name1=ColumnNameFormat
+Configuration12_Item1=CaptionAsName
+Configuration12_Name2=General
+Configuration12_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration12_Name3=GroupOrder
+Configuration12_Item3=Comment=True|Footprint=True
+Configuration12_Name4=VisibleOrder
+Configuration12_Item4=Comment=120|Designator=120|Description=120|Package=100|LCSC Part#=100
+Configuration12_Name5=VisibleOrder_Flat
+Configuration12_Item5=Comment=120|Designator=120|Description=120|Package=100|LCSC Part#=100
+OutputType13=Pick Place
+OutputName13=Generates pick and place files
+OutputCategory13=Assembly
+OutputDocumentPath13=
+OutputVariantName13=
+OutputEnabled13=1
+OutputEnabled13_OutputMedium1=0
+OutputEnabled13_OutputMedium2=0
+OutputEnabled13_OutputMedium3=0
+OutputEnabled13_OutputMedium4=0
+OutputEnabled13_OutputMedium5=0
+OutputEnabled13_OutputMedium6=0
+OutputEnabled13_OutputMedium7=0
+OutputEnabled13_OutputMedium8=0
+OutputEnabled13_OutputMedium9=0
+OutputEnabled13_OutputMedium10=0
+OutputEnabled13_OutputMedium11=2
+OutputDefault13=0
+Configuration13_Name1=OutputConfigurationParameter1
+Configuration13_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Resetteable,Fixed:False,Metric:False,Visible:False,Sort:None,Position:115,Type:0|Column#18=Name:Test frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:127,Type:0|Column#19=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:105,Type:0|Column#20=Name:Diode Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#21=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:119,Type:0|Column#22=Name:Maximun operating temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82,Type:0|Column#23=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:137,Type:0|Column#24=Name:Max output voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77,Type:0|Column#25=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86,Type:0|Column#26=Name:Connector type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#27=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#28=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:102,Type:0|Column#29=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#30=Name:Number of pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:96,Type:0|Column#31=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#32=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#33=Name:Dropout voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#34=Name:Lens transparency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#35=Name:Maximun current hold,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79,Type:0|Column#36=Name:Current trip,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#37=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:104,Type:0|Column#38=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:116,Type:0|Column#39=Name:Power Disipation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106,Type:0|Column#40=Name:Minimun supply voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90,Type:0|Column#41=Name:MCD ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85,Type:0|Column#42=Name:Standby current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:122,Type:0|Column#43=Name:Interfaces,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#44=Name:Throw Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:128,Type:0|Column#45=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:129,Type:0|Column#46=Name:Minimum Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88,Type:0|Column#47=Name:Frequency Stability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:Line regulation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#49=Name:Core count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#50=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95,Type:0|Column#51=Name:Load Regulation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#52=Name:LDO theory link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#53=Name:Number of regulators,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97,Type:0|Column#54=Name:Efficiency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#55=Name:Nominal Currents,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94,Type:0|Column#56=Name:Contact finish,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#57=Name:Brand,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#58=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:118,Type:0|Column#59=Name:Shielding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:121,Type:0|Column#60=Name:Breakdown Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#61=Name:Max input voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74,Type:0|Column#62=Name:Current rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#63=Name:Component link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#64=Name:VoltageGS (th),Fixed:False,Metric:False,Visible:False,Sort:None,Position:139,Type:0|Column#65=Name:Core name/s,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#66=Name:I (d) Pulsed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#67=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:125,Type:0|Column#68=Name:Power Dissipation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:107,Type:0|Column#69=Name:Maximun DC current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80,Type:0|Column#70=Name:Temperature coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:124,Type:0|Column#71=Name:Min/fixed output voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87,Type:0|Column#72=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#73=Name:Maximun DC resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81,Type:0|Column#74=Name:Equivalent resistence,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#75=Name:Flash/SDRAM size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#76=Name:Forward Voltage Drop,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#77=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:120,Type:0|Column#78=Name:ESR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#79=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#80=Name:Package/Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101,Type:0|Column#81=Name:Mounting type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93,Type:0|Column#82=Name:Type output voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:132,Type:0|Column#83=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#84=Name:ADC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#85=Name:Maximun supply voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83,Type:0|Column#86=Name:Housing Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#87=Name:Max Avarage Forward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#88=Name:Power rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:108,Type:0|Column#89=Name:I/O voltages,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#90=Name:Maximum Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78,Type:0|Column#91=Name:Max output current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76,Type:0|Column#92=Name:Max Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|Column#93=Name:Housing Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#94=Name:RMS Output Noise Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:117,Type:0|Column#95=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#96=Name:Impedance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#97=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75,Type:0|Column#98=Name:I (GS) leakage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#99=Name:Forward Voltages,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#100=Name:Steady state,Fixed:False,Metric:False,Visible:False,Sort:None,Position:123,Type:0|Column#101=Name:Termination Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:126,Type:0|Column#102=Name:Diodes Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#103=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92,Type:0|Column#104=Name:Load Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#105=Name:DAC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#106=Name:Channel Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#107=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:140,Type:0|Column#108=Name:RAM size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:113,Type:0|Column#109=Name:Core bit size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#110=Name:Viewing angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:136,Type:0|Column#111=Name:I/O pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#112=Name:Minimun operating temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89,Type:0|Column#113=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#114=Name:Junction Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#115=Name:I (D) Continuous,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#116=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99,Type:0|Column#117=Name:Drive Level,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#118=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:131,Type:0|Column#119=Name:Quiescent current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:112,Type:0|Column#120=Name:gfs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#121=Name:Number of Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98,Type:0|Column#122=Name:Power Supply Rejection TYP (PSRR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:109,Type:0|Column#123=Name:Transient response,Fixed:False,Metric:False,Visible:False,Sort:None,Position:130,Type:0|Column#124=Name:Peak Fordward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:103,Type:0|Column#125=Name:V (DS) breakdown,Fixed:False,Metric:False,Visible:False,Sort:None,Position:135,Type:0|Column#126=Name:Equivalent resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#127=Name:Rds (ON),Fixed:False,Metric:False,Visible:False,Sort:None,Position:114,Type:0|Column#128=Name:Accuracy,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#129=Name:Unit weight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:134,Type:0|Column#130=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:100,Type:0|Column#131=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#132=Name:Product,Fixed:False,Metric:False,Visible:False,Sort:None,Position:110,Type:0|Column#133=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#134=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#135=Name:Product Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111,Type:0|Column#136=Name:Colors/Wavelegths,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#137=Name:Maximun time to trip,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84,Type:0|Column#138=Name:Typical power rating.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:133,Type:0|Column#139=Name:Voltage rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:138,Type:0|Column#140=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#141=Name:Mounting Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91,Type:0|DocumentPath=C:\Users\Public\Documents\Altium\Purple_Pill\Purple_Pill.PcbDoc
+
+[PublishSettings]
+OutputFilePath2=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\Schematics\VariantName.PDF
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for Purple_Pill
+OutputPathMedia2=Schematics
+OutputPathMediaValue2=Schematics
+OutputPathOutputer2=[Output Type]
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=MainOutJob.PDF
+OutputFileNameMulti2=
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2==VariantName
+OpenOutput2=0
+PromptOverwrite2=1
+PublishMethod2=0
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=1
+FitPCBPrintSizeToDoc2=1
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+GenerateTOC2=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\567D433E-AD4F-4E50-8685-3C52C0CF4EA9\Released\Project Outputs for Default PCB STAR Project\Datasheet Documentation\VariantName.PDF
+ReleaseManaged3=1
+OutputBasePath3=Project Outputs for Purple_Pill
+OutputPathMedia3=Datasheet Reference Documentation
+OutputPathMediaValue3=Datasheet Reference Documentation
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=MainOutJob.PDF
+OutputFileNameMulti3=
+UseOutputNameForMulti3=0
+OutputFileNameSpecial3==VariantName
+OpenOutput3=0
+PromptOverwrite3=1
+PublishMethod3=0
+ZoomLevel3=50
+FitSCHPrintSizeToDoc3=1
+FitPCBPrintSizeToDoc3=1
+GenerateNetsInfo3=1
+MarkPins3=1
+MarkNetLabels3=1
+MarkPortsId3=1
+GenerateTOC3=1
+ShowComponentParameters3=1
+GlobalBookmarks3=0
+PDFACompliance3=Disabled
+PDFVersion3=Default
+OutputFilePath4=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\3D Documents\VariantName.PDF
+ReleaseManaged4=1
+OutputBasePath4=Project Outputs for Purple_Pill
+OutputPathMedia4=3D Documents
+OutputPathMediaValue4=3D Documents
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=MainOutJob.PDF
+OutputFileNameMulti4=
+UseOutputNameForMulti4=0
+OutputFileNameSpecial4==VariantName
+OpenOutput4=0
+PromptOverwrite4=1
+PublishMethod4=0
+ZoomLevel4=50
+FitSCHPrintSizeToDoc4=1
+FitPCBPrintSizeToDoc4=1
+GenerateNetsInfo4=1
+MarkPins4=1
+MarkNetLabels4=1
+MarkPortsId4=1
+GenerateTOC4=1
+ShowComponentParameters4=1
+GlobalBookmarks4=0
+PDFACompliance4=Disabled
+PDFVersion4=Default
+OutputFilePath5=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\
+ReleaseManaged5=1
+OutputBasePath5=Project Outputs for Purple_Pill
+OutputPathMedia5=
+OutputPathMediaValue5=
+OutputPathOutputer5=[Output Custom]
+OutputPathOutputerPrefix5=Gerber Files
+OutputPathOutputerValue5=3D Documents
+OutputFileName5=
+OutputFileNameMulti5==VariantName
+UseOutputNameForMulti5=0
+OutputFileNameSpecial5=
+OpenOutput5=1
+OutputFilePath6=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\RulesCheck.PDF
+ReleaseManaged6=1
+OutputBasePath6=Project Outputs for Purple_Pill
+OutputPathMedia6=
+OutputPathMediaValue6=
+OutputPathOutputer6=[Output Type]
+OutputPathOutputerPrefix6=
+OutputPathOutputerValue6=
+OutputFileName6=RulesReport.pdf
+OutputFileNameMulti6=
+UseOutputNameForMulti6=0
+OutputFileNameSpecial6=
+OpenOutput6=0
+PromptOverwrite6=1
+PublishMethod6=0
+ZoomLevel6=50
+FitSCHPrintSizeToDoc6=1
+FitPCBPrintSizeToDoc6=1
+GenerateNetsInfo6=1
+MarkPins6=1
+MarkNetLabels6=1
+MarkPortsId6=1
+GenerateTOC6=1
+ShowComponentParameters6=1
+GlobalBookmarks6=0
+PDFACompliance6=Disabled
+PDFVersion6=Default
+OutputFilePath7=C:\Users\Public\Documents\Altium\Projects\Default PCB STAR Project\Project Outputs for Default PCB STAR Project\
+ReleaseManaged7=1
+OutputBasePath7=Project Outputs for Purple_Pill
+OutputPathMedia7=
+OutputPathMediaValue7=
+OutputPathOutputer7=[Output Custom]
+OutputPathOutputerPrefix7=
+OutputPathOutputerValue7=Gerber Files
+OutputFileName7=
+OutputFileNameMulti7==VariantName
+UseOutputNameForMulti7=0
+OutputFileNameSpecial7=
+OpenOutput7=1
+OutputFilePath8=C:\Users\Public\Documents\Altium\Projects\Default PCB STAR Project\Project Outputs for Default PCB STAR Project\
+ReleaseManaged8=1
+OutputBasePath8=Project Outputs for Purple_Pill
+OutputPathMedia8=
+OutputPathMediaValue8=
+OutputPathOutputer8=[Output Custom]
+OutputPathOutputerPrefix8=
+OutputPathOutputerValue8=Drill Files
+OutputFileName8=
+OutputFileNameMulti8==VariantName
+UseOutputNameForMulti8=0
+OutputFileNameSpecial8=
+OpenOutput8=1
+OutputFilePath9=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\Assembly Documentation\VariantName.PDF
+ReleaseManaged9=1
+OutputBasePath9=Project Outputs for Purple_Pill
+OutputPathMedia9=Assembly Documentation
+OutputPathMediaValue9=Assembly Documentation
+OutputPathOutputer9=[Output Type]
+OutputPathOutputerPrefix9=
+OutputPathOutputerValue9=
+OutputFileName9=MainOutJob.PDF
+OutputFileNameMulti9=
+UseOutputNameForMulti9=0
+OutputFileNameSpecial9==VariantName
+OpenOutput9=0
+PromptOverwrite9=1
+PublishMethod9=0
+ZoomLevel9=50
+FitSCHPrintSizeToDoc9=1
+FitPCBPrintSizeToDoc9=1
+GenerateNetsInfo9=1
+MarkPins9=1
+MarkNetLabels9=1
+MarkPortsId9=1
+GenerateTOC9=1
+ShowComponentParameters9=1
+GlobalBookmarks9=0
+PDFACompliance9=Disabled
+PDFVersion9=Default
+OutputFilePath10=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\Mechanical Documentation\VariantName.PDF
+ReleaseManaged10=1
+OutputBasePath10=Project Outputs for Purple_Pill
+OutputPathMedia10=Mechanical Documentation
+OutputPathMediaValue10=Mechanical Documentation
+OutputPathOutputer10=[Output Type]
+OutputPathOutputerPrefix10=
+OutputPathOutputerValue10=
+OutputFileName10=MainOutJob.PDF
+OutputFileNameMulti10=
+UseOutputNameForMulti10=0
+OutputFileNameSpecial10==VariantName
+OpenOutput10=0
+PromptOverwrite10=1
+PublishMethod10=0
+ZoomLevel10=50
+FitSCHPrintSizeToDoc10=1
+FitPCBPrintSizeToDoc10=1
+GenerateNetsInfo10=1
+MarkPins10=1
+MarkNetLabels10=1
+MarkPortsId10=1
+GenerateTOC10=1
+ShowComponentParameters10=1
+GlobalBookmarks10=0
+PDFACompliance10=Disabled
+PDFVersion10=Default
+OutputFilePath11=C:\Users\Public\Documents\Altium\Purple_Pill\Project Outputs for Purple_Pill\Assembly\
+ReleaseManaged11=1
+OutputBasePath11=Project Outputs for Purple_Pill
+OutputPathMedia11=Assembly
+OutputPathMediaValue11=Assembly
+OutputPathOutputer11=[Output Type]
+OutputPathOutputerPrefix11=
+OutputPathOutputerValue11=
+OutputFileName11=
+OutputFileNameMulti11=
+UseOutputNameForMulti11=1
+OutputFileNameSpecial11=
+OpenOutput11=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\Schematics\VariantName.PDF
+OpenOutputs2=0
+RelativeOutputPath3=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\567D433E-AD4F-4E50-8685-3C52C0CF4EA9\Released\Project Outputs for Default PCB STAR Project\Datasheet Documentation\VariantName.PDF
+OpenOutputs3=0
+RelativeOutputPath4=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\3D Documents\VariantName.PDF
+OpenOutputs4=0
+RelativeOutputPath5=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\
+OpenOutputs5=1
+AddToProject5=1
+TimestampFolder5=0
+UseOutputName5=0
+OpenODBOutput5=0
+OpenGerberOutput5=0
+OpenNCDrillOutput5=0
+OpenIPCOutput5=0
+EnableReload5=0
+RelativeOutputPath6=C:\ProgramData\Altium\Altium Designer {D5B07650-7C25-4207-BECD-7754BADBA169}\VaultEditCache\C572B339-C053-4CA1-858A-E0840C7B78A2\Released\Project Outputs for Default PCB STAR Project\RulesCheck.PDF
+OpenOutputs6=0
+RelativeOutputPath7=C:\Users\Public\Documents\Altium\Projects\Default PCB STAR Project\Project Outputs for Default PCB STAR Project\
+OpenOutputs7=1
+AddToProject7=1
+TimestampFolder7=0
+UseOutputName7=0
+OpenODBOutput7=0
+OpenGerberOutput7=0
+OpenNCDrillOutput7=0
+OpenIPCOutput7=0
+EnableReload7=0
+RelativeOutputPath8=C:\Users\Public\Documents\Altium\Projects\Default PCB STAR Project\Project Outputs for Default PCB STAR Project\
+OpenOutputs8=1
+AddToProject8=1
+TimestampFolder8=0
+UseOutputName8=0
+OpenODBOutput8=0
+OpenGerberOutput8=0
+OpenNCDrillOutput8=0
+OpenIPCOutput8=0
+EnableReload8=0
+RelativeOutputPath9=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\Assembly Documentation\VariantName.PDF
+OpenOutputs9=0
+RelativeOutputPath10=C:\ProgramData\Altium\Altium Designer {2E035020-BD72-4542-BFA1-515FA77F2B8A}\VaultEditCache\23917413-BC5D-4015-97F7-EE46DD7FE650\Released\Project Outputs for Default PCB STAR Project\Mechanical Documentation\VariantName.PDF
+OpenOutputs10=0
+RelativeOutputPath11=C:\Users\Public\Documents\Altium\Purple_Pill\Project Outputs for Purple_Pill\Assembly\
+OpenOutputs11=0
+AddToProject11=1
+TimestampFolder11=0
+UseOutputName11=0
+OpenODBOutput11=0
+OpenGerberOutput11=0
+OpenNCDrillOutput11=0
+OpenIPCOutput11=0
+EnableReload11=0
+
